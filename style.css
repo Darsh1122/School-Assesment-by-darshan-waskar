@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+ body { background: radial-gradient( circle,
+     rgba(162, 0, 255, 1) 0%,
+     rgba(0, 255, 247, 1) 100% );
+     font-family: Pacifico;
+      text-align: center;
+       padding: 100px; 
+    
+}
+
+.box1{
+    text-align: center;
+    padding: 40px 40px 5px 20px;
+}
+
+.box2{
+    text-align: center;
+    padding: 40px 40px 50px 113px;
+}
